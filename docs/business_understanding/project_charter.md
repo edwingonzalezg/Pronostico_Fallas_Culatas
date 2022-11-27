@@ -3,9 +3,17 @@
 ## Business background
 
 * El cliente es una empresa dedicada al transporte y la logística de hidrocarburos, que lidera el segmento Midstream en la cadena del petróleo de Colombia. Es una de las empresas más grandes del país por cantidad de activos y se encuentra entre las 10 compañías más grandes por ingresos operacionales y utilidades del país. Esta empresa cuenta con cerca de 9.000 kilómetros de oleoductos y poliductos por los que se transporta la mayoría del crudo y los refinados de Colombia.
-* ![image](https://user-images.githubusercontent.com/119147133/204162874-d50a37e0-d06b-47d0-9a69-eea706b88aa2.png)
 
-* What business problems are we trying to address?
+![image](https://user-images.githubusercontent.com/119147133/204162874-d50a37e0-d06b-47d0-9a69-eea706b88aa2.png)
+
+* La confiabilidad de las redes de transporte de hidrocarburos está directamente asociada al funcionamiento de las estaciones de bombeo. En Colombia, los sistemas de transporte de hidrocarburos operan en serie de estación a estación. De esta manera, el número y potencia hidráulica están en función del volumen a transportar, de la viscosidad del crudo, del diámetro de la tubería, de la resistencia mecánica y las condiciones geográficas. Las estaciones de bombeo de la red de hidrocarburos en Colombia operan en su mayoría a través de motores de combustión interna o eléctricos de alta potencia los cuales son los encargados de transmitir la potencia mecánica a la bomba la cual a su vez se encarga de impulsar el fluido (crudo) a través del oleoducto. Se requieren alternativas de tecnología de motores para operar al menor costo posible pero que sean capaces de satisfacer la demanda operando dentro los parámetros mínimos de emisiones de CO2 al ambiente. Teniendo en cuenta lo anterior y visualizando la importancia del negocio de petróleo para Colombia es necesario “garantizar la mayor producción de crudo al menor costo posible” para obtener la "mayor rentabilidad" posible en este sector y así generar una mayor contribución al país.
+
+![image](https://user-images.githubusercontent.com/119147133/204162958-31eafc11-9cce-4919-89a4-30da454b3220.png)
+
+* Actualmente uno de los principales problemas de las transportadoras de petróleo en Colombia son sus elevados costos debido a la alta cantidad de fallas que se presentan en sus estaciones. Por ejemplo, una de las principales transportadoras la cual nos reservamos el nombre, tiene un promedio de USD4.000.000 en costos anuales asociados a fallas. En la siguiente imagen se puede apreciar el comportamiento de los costos en mantenimiento:
+
+![image](https://user-images.githubusercontent.com/119147133/204163100-4f14bdb8-f653-4a47-9806-599052e751d0.png)
+
 
 ## Scope
 * What data science solutions are we trying to build?
