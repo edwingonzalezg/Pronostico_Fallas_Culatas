@@ -27,7 +27,7 @@
 
 * Una de las soluciones más efectivas para este tipo de problemas es implementar un algoritmo de redes neuronales, las cuales han sido utilizadas exitosamente debido a que son capaces de modelar y predecir series de tiempo lienales y no lineales con un alto grado de precisión y con la capacidad de capturar cualquier tipo de interrelación entre los datos previamente.
 
-https://www.cienciadedatos.net/images/forecasting_multi-step.gif
+![image](https://user-images.githubusercontent.com/119147133/204164134-e5750bcb-0aeb-4869-99bf-a59d62355e13.png)
 
 * How is it going to be consumed by the customer?
 
