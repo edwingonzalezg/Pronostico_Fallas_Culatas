@@ -29,7 +29,9 @@
 
 ![image](https://user-images.githubusercontent.com/119147133/204164134-e5750bcb-0aeb-4869-99bf-a59d62355e13.png)
 
-* How is it going to be consumed by the customer?
+* Con la capacidad de predecir el intervalo de tiempo antes de que un componente falle, el cliente va a realizar diferentes tipos de actividades con el fin de minimizar al máximo el impacto de la falla. Algunas actividades son: asegurar la disponibilidad del repuesto en la bodega, tener preparado al grupo de técnicos que revisarán y repararán el equipo, preparar inspección con el área de operaciones, mantener un equipo disponible para que en caso de que falle entre otro equipo a operar y así se eviten impactos a la producción, cambiar su filosofía de operación para tener equipos en StandBy, entre otras. Cuanto más exactamente se pueda predecir cuándo va a fallar un componente o una máquina se podrán tomar mejores decisiones para conseguir la máxima productividad y eficiencia en toda la planta a pesar de dicha condición.
+
+![image](https://user-images.githubusercontent.com/119147133/204164845-eb0475b7-2c7a-4817-bc68-be64f20c7611.png)
 
 ## Personnel
 * Who are on this project:
