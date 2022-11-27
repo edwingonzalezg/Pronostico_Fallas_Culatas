@@ -21,8 +21,12 @@
 * Actualmente los motores a gas de dichas estaciones estan presentando varias fallas las cuales estan generando impactos en el transporte de hidrocarburos lo cual prepercute directamente en la utilidad del negocio. Una de las fallas que mayor impacto genera es la **"Rotura de Culatas"** las cuales se están presentando de manera costante y se requiere buscar una solución previa antes de que se presente dicha falla para tomar algun tipo de acción y así evitar costos de parea de producción y por su puesto los costos de reparación.
 
 ## Scope
-* What data science solutions are we trying to build?
-* What will we do?
+* En este trabajo se busca desarrollar una metodología, así como implementar un modelo de predicción de fallas. El principal objetivo es desarrollar un algoritmo que permita analizar el comportamiento histórico de las bombas a través de todos los eventos de falla los cuales cuentan con miles de registros de diferentes variables como presiones, flujos, temperaturas, modos de falla, tiempo de operación, tiempos de parada, etc., con los cuales el algoritmo aprenderá a predecir en el futuro todas las fallas que tiempo atrás ocurrieron.
+
+![image](https://user-images.githubusercontent.com/119147133/204164007-e4b9ffc7-027d-4f88-af22-86083313cb53.png)
+
+* Una de las soluciones más efectivas para este tipo de problemas es implementar un algoritmo de redes neuronales, las cuales han sido utilizadas exitosamente debido a que son capaces de modelar y predecir series de tiempo lienales y no lineales con un alto grado de precisión y con la capacidad de capturar cualquier tipo de interrelación entre los datos previamente.
+
 * How is it going to be consumed by the customer?
 
 ## Personnel
