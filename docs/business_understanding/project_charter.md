@@ -31,25 +31,42 @@
 
 * Con la capacidad de predecir el intervalo de tiempo antes de que un componente falle, el cliente va a realizar diferentes tipos de actividades con el fin de minimizar al máximo el impacto de la falla. Algunas actividades son: asegurar la disponibilidad del repuesto en la bodega, tener preparado al grupo de técnicos que revisarán y repararán el equipo, preparar inspección con el área de operaciones, mantener un equipo disponible para que en caso de que falle entre otro equipo a operar y así se eviten impactos a la producción, cambiar su filosofía de operación para tener equipos en StandBy, entre otras. Cuanto más exactamente se pueda predecir cuándo va a fallar un componente o una máquina se podrán tomar mejores decisiones para conseguir la máxima productividad y eficiencia en toda la planta a pesar de dicha condición.
 
-![image](https://user-images.githubusercontent.com/119147133/204164845-eb0475b7-2c7a-4817-bc68-be64f20c7611.png)
+![image](https://user-images.githubusercontent.com/119147133/204164887-712ff072-4707-4bd2-bbdf-ff2b6ea869cb.png)
 
 ## Personnel
-* Who are on this project:
-	* Microsoft:
-		* Project lead
-		* PM
-		* Data scientist(s)
-		* Account manager
-	* Client:
-		* Data administrator
-		* Business contact
+* Paricipantes del Proyecto:
+	* Nuestro Equipo:
+		* Líder del Proyecto (Edwin González)
+		* Cientificos de datos (Leonardo Montenegro y Edwin González)
+		* Account manager (Por definir)
+	* Cliente:
+		* Administrador de datos (Juan Sebastia Lara Ramírez)
+		* Contacto de la empresa (Juan Sebastian Malagon Torres)
 	
-## Metrics
-* What are the qualitative objectives? (e.g. reduce user churn)
-* What is a quantifiable metric  (e.g. reduce the fraction of users with 4-week inactivity)
-* Quantify what improvement in the values of the metrics are useful for the customer scenario (e.g. reduce the  fraction of users with 4-week inactivity by 20%) 
-* What is the baseline (current) value of the metric? (e.g. current fraction of users with 4-week inactivity = 60%)
-* How will we measure the metric? (e.g. A/B test on a specified subset for a specified period; or comparison of performance after implementation to baseline)
+## Métricas
+* Objetivos: 
+	* Reducir de manera general los costos generados por fallas en culatas
+	* Reducir los impactos en los costos de las reparaciones
+	* Disminuir la cantidad de eventos que afecten el bombeo de petróleo
+	* Disminuir los costos por parada de equipos
+	* Aumentar la disponibilidad y confiabilidad de los motores
+	
+* Métricas de mejora
+	* Reducir la catidad de fallas en un 70%
+	* Disminuir la tasa de fallas a 0.00138
+	* Aumentar el MTBF (Mean Time Between Failures) a 360 *horas*
+	
+* Valores de referencia
+	* Fallas por daño de cultas al mes en promedio ≈ 3.0
+	* Tasa de fallas por culatas al mes 0.00416
+	* MTBF (Mean Time Between Failures) 180 *horas*
+	
+* Medición de la métrica
+	* Comparación de la cantidad de fallas por cualtas al mes
+	* Comparación de la tasa de fallas antes y después de la implementación
+	* Comparación del redimiento a través del MTBF (Mean Time Between Failures)
+	* Predicciones exitosas versus fallas materializadas (presentadas)
+	* Cantidad de interveniones por falla en culatas vs intervenciones por condición detectada por el algoritmo
 
 ## Plan
 * Phases (milestones), timeline, short description of what we'll do in each phase.
