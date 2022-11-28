@@ -44,7 +44,7 @@
 		* Contacto de la empresa (Juan Sebastian Malagon Torres)
 	
 ## Métricas
-* Objetivos: 
+* Objetivos
 	* Reducir de manera general los costos generados por fallas en culatas
 	* Reducir los impactos en los costos de las reparaciones
 	* Disminuir la cantidad de eventos que afecten el bombeo de petróleo
@@ -69,7 +69,16 @@
 	* Cantidad de interveniones por falla en culatas vs intervenciones por condición detectada por el algoritmo
 
 ## Plan
-* Phases (milestones), timeline, short description of what we'll do in each phase.
+* Phases (hitos)
+	1 - Definición del problema
+	2 - Obtención de los datos
+	3 - Análisis Exploratorio de los datos
+	4 - Preprocesamiento de los datos
+	5 - Creación de dataset para Pronóstico
+	6 - Creación de dataset para el Detector de Anomalías
+	7 - Creación del modelo de Predicción
+	8 - Creación del modelo de Detector de Anomalías
+	9 - 
 
 ## Architecture
 * Data
