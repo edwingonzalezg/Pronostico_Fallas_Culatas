@@ -71,14 +71,21 @@
 ## Plan
 * Phases (hitos)
 	1 - Definición del problema
+	
 	2 - Obtención de los datos
+	
 	3 - Análisis Exploratorio de los datos
+	
 	4 - Preprocesamiento de los datos
+	
 	5 - Creación de dataset para Pronóstico
+	
 	6 - Creación de dataset para el Detector de Anomalías
+	
 	7 - Creación del modelo de Predicción
+	
 	8 - Creación del modelo de Detector de Anomalías
-	9 - 
+
 
 ## Architecture
 * Data
